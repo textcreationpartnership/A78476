@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Trades destruction is Englands ruine, or Excise decryed. Wherein is manifested the irregularity and inequality of raising money by way of excise to defray the charge of the nation. By W.C. a lover of his country.</title>
+            <author>W. C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78476</idno>
+            <idno type="STC">Wing C171</idno>
+            <idno type="STC">Thomason E984_6</idno>
+            <idno type="STC">ESTC R207799</idno>
+            <idno type="EEBO-CITATION">99866828</idno>
+            <idno type="PROQUEST">99866828</idno>
+            <idno type="VID">168591</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78476)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168591)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 146:E984[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Trades destruction is Englands ruine, or Excise decryed. Wherein is manifested the irregularity and inequality of raising money by way of excise to defray the charge of the nation. By W.C. a lover of his country.</title>
+                  <author>W. C.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year MDCLIX. [1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May 28"; "May 28".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Excise tax --  England --  Early works to 1800.</term>
+               <term>Taxation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168591:1" rendition="simple:additions"/>
+            <p>Trades Deſtruction IS Englands Ruine, OR Exciſe Decryed.</p>
+            <p>Wherein is manifeſted the Irregulari<g ref="char:EOLhyphen"/>ty and Inequality of raiſing money by way of Exciſe to defray the Charge of the Nation.</p>
+            <p>By <hi>W. C.</hi> A Lover of his Country.</p>
+            <p>
+               <add>May 28</add> 
+               <hi>LONDON,</hi> Printed in the Year MDCLIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="to_the_reader">
+            <pb facs="tcp:168591:2"/>
+            <pb n="3" facs="tcp:168591:2" rendition="simple:additions"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Muſt ingeniouſly confeſs I am ſo much an Honourer and Lover of the Government of a Free State, (I mean ſuch a Government wherein all men may taſte of Subjection as well as Rule) that I was almoſt unwilling in this juncture of time (the Common<g ref="char:EOLhyphen"/>wealth being involved in a Laborinth of publique debts, contracted by the late General of the Army to maintain a proud Court, and to ſubjugate the Common-wealth to the wills and intereſt of his family) to publiſh the enſuing diſ<g ref="char:EOLhyphen"/>courſe. But finding a great inclination in ſome in power to continue this unequal burthen of Exciſe, and make it a ſtanding Law, and a condeſcending in others, for want of information of the evil thereof, I did, and do account my ſelf obliged in Love to my Country, and true affection to the poor diſtreſſed Tradeſ-men of this Common-wealth, to proceed therein, being confidently aſſured, that though it may diſpleaſe ſome ſelf-ſeeking perſons, yet thoſe that are true Patriots of their Country upon ſerious conſideration, will not have juſt cauſe to be offended thereat.</p>
+            <q>
+               <p>THat the <hi>Major</hi> part of the people of <hi>England</hi> have their beſt and chiefeſt dependance and ſubſi<g ref="char:EOLhyphen"/>ſtance by Forraign and Domeſtique Trade, ſurely I think no rational unbyaſſed perſon can or will deny, and as the dependance of the greater part relyes on Trade, ſo alſo it is undeniable, that the greateſt ſecuri<g ref="char:EOLhyphen"/>ty of the Nation doth and will reſt and reſide in the
+<pb n="4" facs="tcp:168591:3"/>ſtrength and number of ſhipping and Seamen, which cannot be increaſed but by uſing all prudent ways and means for the inlarging the Trade, by eaſing the bur<g ref="char:EOLhyphen"/>thens and vexations which are upon it. Hath not <hi>Eng<g ref="char:EOLhyphen"/>land</hi> the <hi>Dutch</hi> a neer Neighbour ſo powerful and am<g ref="char:EOLhyphen"/>bitious, that if our State do not providently prevent their deſigns, this Common-wealth will always be in danger if any advantage can be taken by them? And ſurely there is no better courſe than to encreaſe Ship<g ref="char:EOLhyphen"/>ping and Seamen.</p>
+               <p>Whilſt the Romans were unprovided of Shipping, and ſo not able to match the Carthaginians in Naval Battles, they were not capable either to invade or ſub<g ref="char:EOLhyphen"/>due the Carthaginians; but when their Naval power was great, they ſoon brought their Neighbour-Com<g ref="char:EOLhyphen"/>mon-wealth to their terms, and at laſt to a perfect Con<g ref="char:EOLhyphen"/>queſt.</p>
+               <p>It is true that <hi>England</hi> is large, and hath many Lords and Gentlemen of Eſtates dwelling in it, and their Lands require numbers of men to manure them; but ſee and impartially conſider, and you ſhall find, that thoſe men that have nothing but their labour to ſubſiſt on either by plowing, threſhing, hedging, and ſuch like Country imployments, are little better then ſlaves, let them be never ſo laborious, their wages is ſo little, that they are never in all their lives, able to lay up any thing for the ſubſiſtance of their Families after their death; and therefore it generally comes to paſs, that if Country-Labourers dye whileſt their children are young and unable to work for themſelves, they muſt unavoidably be relieved by the Alms of the Pariſh, which as the Laws are executed, is a ſad lively-hood. But when Trade hath been good heretofore, and if God ſhall pleaſe to afford <hi>England</hi> that bleſſing, that
+<pb n="5" facs="tcp:168591:3"/>it may be ſo hereafter, then did, and ſo may do again, all Handi-crafts that are careful, and Labourers five comfortably, and leave a maintenance to their Chil<g ref="char:EOLhyphen"/>dren.</p>
+               <p>This being proved, ſurely I cannot ſee any reaſon, but that this Honorable Parliament, ſhould, and in<g ref="char:EOLhyphen"/>deed ought to reduce this Nation, to its priſtine Con<g ref="char:EOLhyphen"/>dition of freedom for Trade. I ſhall grant, that when the Exciſe was firſt ſettled, they had reaſon and policy ſo to do: For the late King having the Command of the Inlands, and the Parliament of moſt of the Sea-Ports, they had no better way then to put Exciſe on Goods, whereby their Enemies making uſe of the ſaid goods paid the Exciſe, and ſo the Parliaments Army: But now when no Enemy hinders the improvement of Land, but that the price is far higher then in ancient times, when our Noble Anceſtors neither could nor would raiſe moneys any otherwiſe, then by Subſidies, Tenths, and Fifteenths, beſides a ſmall low Cuſtome: Yea when they were never ſo much beſet with danger, by Sea and Land, by <hi>French, Scots</hi> and <hi>Spaniards:</hi> That our preſent Rulers ſhould continue ſuch a great Exciſe, is a thing hardly to be imagined. Beſides doth not the fourth part of Exciſe run out in Charges for collecting the ſame? and all this cometh out of the peoples purſes.</p>
+               <p>Now ſurely if a Common-wealth be rightly conſti<g ref="char:EOLhyphen"/>tuted and uprightly governed, all things either in Law, payments, <hi>&amp;c.</hi> which are inconſiſtent either with the caſe and ſafety of the ſame ought to be taken away, elſe how can it be called a Common-wealth, or in plain Engliſh, a Common good; it's not the name of a Free-State, but the ſubſtance and power of a Free-State,
+<pb n="6" facs="tcp:168591:4"/>that either will pleaſe or make the people happy.</p>
+               <p>Now as to the inequallity of the burthen of Exciſe, laid on the Merchant, obſerve what follows. The Ex<g ref="char:EOLhyphen"/>ciſe on <hi>Spaniſh</hi> Wine, is 9 l. <hi>per</hi> Tunn, on <hi>French</hi> Wine, 6 l. <hi>per</hi> Tunn, ſome of which coſteth no more in <hi>France;</hi> on Salt 1 d. ob. <hi>per</hi> Gallon, which coſteth the firſt penny in <hi>France, &amp;c.</hi> but ob. <hi>per</hi> Gallon; on Tobacco 1 d. <hi>per</hi> Pound, which at <hi>Virginia</hi> and other <hi>Engliſh</hi> Plantations, may be bought for 2 d. <hi>per</hi> Pound: Nay the cruel Laws made by the late Single Perſon, are ſuch, that if Wines are never ſo much decayed, they muſt pay 4 l. <hi>per</hi> Tunn <hi>Spaniſh,</hi> and 2 l. 10 s. <hi>per</hi> Tunn <hi>French,</hi> Exciſe, although they will not yeild hardly the ſame. Now the charge on Goods being ſo great, thoſe that Trade in Wines, Tobacco, Salt, and other ſuch Goods, muſt have double the Stock that other<g ref="char:EOLhyphen"/>wiſe their Trade would require. It's truth the Law that was (for indeed I cannot ſay, is, there being none at preſent) for Exciſe, ſaith, that the firſt buyer muſt pay Exciſe, and this on ſome things in <hi>London</hi> is pra<g ref="char:EOLhyphen"/>ctiſed; yet herein cometh an evil to the Importer: For he that buyeth, payeth down ready money for Exciſe, which ſhould be paid to the Merchant, and would diſ<g ref="char:EOLhyphen"/>charge Fraight and Cuſtome; but in the Country Ports, no buyer there ever taketh notice thereof; ſo that the Exciſe of Wine, Salt, Tobacco, and all Goods, are paid by the Importer, who often truſteth both his Stock, diſourſed for buying the Goods in Forraign Parts, and the Cuſtomes and Exciſe on them, and looſeth all, both principal and coſt, by the failing or inability of his Cre<g ref="char:EOLhyphen"/>ditor: So that it is not to be denied, but that many, both Merchants and Shop-keepers, by this means, that have but 400 l. or 500 l. Stock, to trade with, pay more to the publique maintainance, then Gentlemen
+<pb n="7" facs="tcp:168591:4"/>of 400 l. or 500 l. nay I may ſay 1000 l. <hi>per annum,</hi> Lands.</p>
+               <p>Now whether this be an equal way to raiſe moneys, let all unbiaſſed men judge. And not only this; but there requires ſo much attendance, ſo much waiting for Tickets, ſo much Obligation in Bonds, that none that hath any full Trade, but muſt keep a Servant more then ordinary to mannage his buſineſs, whoſe food and raiment muſt coſt ſomething. Beſides this is that which doth ruine Trade, the extraordinary charges on goods, not only hindereth the expence of greater quantities, in regard of the great prizes; but alſo often enforceth the Merchants to ſell cheaper, conſidering the charges on them, then otherwiſe they might do; and not only ſo, but thoſe that make little conſcience of Oaths or lying, that have little Eſtates to loſe, and that are ſubtile and politick, find ways to ſave the Cuſtome and Exciſe, which is high, and ſo ſell cheaper then thoſe that are able, and plain in dealing can do, when the ſaid char<g ref="char:EOLhyphen"/>ges are paid, which much ſpoileth the current of Trade. How many Brewers in the Nation, and how many Merchants in the Country have paid great ſums for Exciſe, when their Debitors have not paid the Princi<g ref="char:EOLhyphen"/>ple? Let the good old way and practiſe of our Ance<g ref="char:EOLhyphen"/>ſtors, be put in uſe in raiſing moneys; no Merchant, no Shop-keeper nor Tradeſ-man, that hath an Eſtate, but will be willing to pay to the height of their Eſtates, equal to all Landed men, let it be doubled, trebled, quadrupled, when the urgent affairs of the Nation, for defence of the ſame requireth it: And why Landed men, whoſe Eſtates are certain, ſhould not be ready to agree to this, I know no reaſon; eſpecially if they conſider, that by freedom of Trade they ſhall buy all Forraign Goods cheaper, and ſell their Wooll and other Goods
+<pb n="8" facs="tcp:168591:5"/>dearer; and alſo by a good trade will their poor be ſo kept, that they will not be burthenſome to them, for want of food and raiment to ſupport them.</p>
+               <p>To conclude, Take notice into what a deſperate po<g ref="char:EOLhyphen"/>verty, the late Ruler and his Confederates have brought the Nation, by impoſing burthens on Trade: Inquire in all Ports, Cities, Towns, and Countries, and you ſhall find, there was never ſuch a calamity brought on the poor, generally throughout the Land, in the midſt of the late Warrs, as is at preſent. Oh! that thoſe who now God hath once again brought to ſteere the Ship of the Common-wealth, that is almoſt ſhattered to peices, by Storms and Tempeſts of a deſ<g ref="char:EOLhyphen"/>perate, ſelf-ſeeking Generation, may ſo lay it to heart, and be ſo indued with Courage and Counſel, that they may at laſt bring her into a ſafe Harbour, which is the hearty deſire of all honeſt men.</p>
+            </q>
+         </div>
+         <div type="postscript">
+            <head>Poſt-ſcript.</head>
+            <p>TO the Objection that ſome make, <hi>viz.</hi> That our neighbour State the <hi>Hollanders,</hi> raiſe most of the Charge of their Country on Exciſe, is Anſwered, That the Cuſtomes of Goods Imported and Tranſported from <hi>England,</hi> raiſe in a proportionable way, far more then all the Exciſe of the <hi>Nether-land</hi>State, or if you will, <hi>No<g ref="char:EOLhyphen"/>land</hi> State: For indeed that Common-wealth hath little Land belonging to it; and therefore its impoſsible, that the Charge on Land there alone, could defend the ſaid Peo<g ref="char:EOLhyphen"/>ple.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
